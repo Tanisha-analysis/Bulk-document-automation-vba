@@ -6,10 +6,10 @@
 ![Excel Input Data](./vba%203_124528.png)
 
 **Step 2: VBA Macro Running**  
-![VBA Code Execution](./VBA%206_124521.png)
+![VBA Code Execution](./vba%204_124529.png)
 
 **Step 3: Auto-Generated PDF Output**  
-![Generated PDFs](./vba%204_124529.png)
+![Generated PDFs](.VBA%206_124521.png)
 **Impact**: Reduced manual PDF creation from 2+ hours to 5 minutes for 500+ records | 96% time saved
 
 ## Key Features
