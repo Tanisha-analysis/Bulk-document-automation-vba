@@ -9,7 +9,7 @@
 ![VBA Code Execution](./vba%204_124529.png)
 
 **Step 3: Auto-Generated PDF Output**  
-![Generated PDFs](.VBA%206_124521.png)
+![Generated PDFs](./VBA%206_124521.png)
 **Impact**: Reduced manual PDF creation from 2+ hours to 5 minutes for 500+ records | 96% time saved
 
 ## Key Features
