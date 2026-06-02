@@ -1,6 +1,7 @@
 # Bulk Document Automation - Excel VBA
 
-[[Demo Video](https://img.youtube.com/vi/Yl3uW6POsTo/0.jpg)](https://www.youtube.com/watch?v=Yl3uW6POsTo)
+### Demo Video
+https://github.com/Tanisha-analysis/Bulk-Document-Automation-Excel-VBA/blob/main/InShot_20260602_132931858.mp4
 
 **Impact**: Reduced manual PDF creation from 2+ hours to 5 minutes for 500+ records | 96% time saved
 
